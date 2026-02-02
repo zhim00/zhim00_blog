@@ -220,6 +220,12 @@ menu:
           params:
               icon: brand-juejin
 
+        - identifier: csdn
+          name: CSDN
+          url: https://blog.csdn.net/2302_82156518?spm=1000.2115.3001.5343
+          params:
+              icon: brand-csdn
+
 related:
     includeNewer: true
     threshold: 60

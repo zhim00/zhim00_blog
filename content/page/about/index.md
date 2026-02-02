@@ -1,13 +1,11 @@
 ---
 title: "关于"
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+slug: "about"
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+license: Licensed under CC BY-NC-SA 4.0
 menu:
     main: 
         weight: -90
@@ -15,20 +13,24 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+### 浅浅介绍一下
 
-Hugo makes use of a variety of open source projects including:
+普普通通的一名计算机专业学生
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+- 联系方式：zhim00@163.com
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+相比“会什么技术”，我更在意的是**自己是否真的理解了问题、写下的代码能否长期被信任**。
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+---
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+### 关于本站
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- 博客框架：[Hugo](https://gohugo.io/) 0.152.2
+- 博客主题：[Stack 3.32.0](https://github.com/CaiJimmy/hugo-theme-stack/releases/tag/v3.32.0)
+- 托管部署：源码托管于 [Github](https://github.com/) | 部署于[Cloudflare Pages](https://www.cloudflare.com/)
+- 版权声明：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+> 写代码是为了构建系统，  
+> 写博客是为了构建自己。
