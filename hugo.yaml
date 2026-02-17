@@ -26,7 +26,7 @@ languages:
         weight: 2
         params:
             sidebar:
-                subtitle: 生日蛋糕就是青春的墓碑
+                subtitle: 踏平坎坷成大道，斗罢艰险又出发
 
 services:
     # Change it to your Disqus shortname before using
@@ -61,7 +61,7 @@ params:
 
     sidebar:
         emoji: 👾
-        subtitle: 生日蛋糕就是青春的墓碑
+        subtitle: 踏平坎坷成大道，斗罢艰险又出发
         avatar:
             enabled: true
             local: true
@@ -252,6 +252,9 @@ markup:
                     inline:
                         - - \(
                           - \)
+            extras:
+                mark:
+                    enable: true  # 启用 =高亮=
         renderer:
             ## Set to true if you have HTML content inside Markdown
             unsafe: true
