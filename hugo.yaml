@@ -214,11 +214,11 @@ menu:
           params:
               icon: brand-github
 
-        - identifier: juejin
-          name: Juejin
-          url: https://juejin.cn/user/168640214217658
-          params:
-              icon: brand-juejin
+        # - identifier: juejin
+          # name: Juejin
+          # url: https://juejin.cn/user/168640214217658
+          # params:
+              # icon: brand-juejin
 
         - identifier: csdn
           name: CSDN
